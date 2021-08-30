@@ -14,6 +14,12 @@ In this project, I have created a shell script that will perform the following o
 
 > Also detach the volumes from that instance and deletes it
 
+### DEMO
+
+Watch the video below for the ebs volumes complete demo
+
+https://github.com/akshat-crypto/aws_shell_scripting_Project-3/raw/master/1_ebs_vol.mp4
+
 - WEBSERVERS
 
 > Installs the Nginx Webserver and make changes in the configuration file to deploy a static website (HTML+CSS +JavaScript)
@@ -29,4 +35,10 @@ In this project, I have created a shell script that will perform the following o
 > Allows user to create an elastic loadbalancer, attaches the running instances.
 
 > And also creates an additional S3 bucket for the loadbalancer access logs
+
+### DEMO
+
+Watch the video below for the webservers + Load Balancer complete demo
+
+https://github.com/akshat-crypto/aws_shell_scripting_Project-3/raw/master/1_ebs_vol.mp4
 
