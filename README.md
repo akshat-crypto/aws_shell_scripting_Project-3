@@ -41,8 +41,8 @@ https://user-images.githubusercontent.com/64367344/131355204-da8ecd63-ca64-427d-
 
 Watch the video below for the webservers + Load Balancer complete demo
 
-Uploading 2_nginx_httpd_server_setup+elb.mp4…
+https://user-images.githubusercontent.com/64367344/131359560-104a6a5c-64e2-4157-ab2f-9d33fa62d61e.mp4
 
-Note : -
 
-Nginx servers working on advance configuration and nginx load balancer demo will soon be uploaded in this repo
+
+Nginx servers working with advance configuration and nginx load balancer demo will soon be uploaded in this repo
