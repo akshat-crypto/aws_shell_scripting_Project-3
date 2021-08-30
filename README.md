@@ -1,3 +1,4 @@
+
 # Integrating Shell Scripting AWS to perform Basic Automation Tasks
 
 ### PROJECT DESCRIPTION
@@ -18,7 +19,7 @@ In this project, I have created a shell script that will perform the following o
 
 Watch the video below for the ebs volumes complete demo
 
-https://github.com/akshat-crypto/aws_shell_scripting_Project-3/raw/master/1_ebs_vol.mp4
+https://user-images.githubusercontent.com/64367344/131355204-da8ecd63-ca64-427d-bb59-a311581fc31d.mp4
 
 - WEBSERVERS
 
@@ -40,5 +41,8 @@ https://github.com/akshat-crypto/aws_shell_scripting_Project-3/raw/master/1_ebs_
 
 Watch the video below for the webservers + Load Balancer complete demo
 
-https://github.com/akshat-crypto/aws_shell_scripting_Project-3/raw/master/1_ebs_vol.mp4
+Uploading 2_nginx_httpd_server_setup+elb.mp4…
 
+Note : -
+
+Nginx servers working on advance configuration and nginx load balancer demo will soon be uploaded in this repo
