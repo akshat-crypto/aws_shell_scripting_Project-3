@@ -27,6 +27,10 @@ https://user-images.githubusercontent.com/64367344/131355204-da8ecd63-ca64-427d-
 
 > Installs the APACHE Webserver and make changes in the configuration file to deploy a static website (HTML+CSS +JavaScript)
 
+###DEMO
+
+https://user-images.githubusercontent.com/64367344/131474815-7af6ef92-07d5-4c05-a610-13fbf565fb09.mp4
+
 > Allows user to transfer the website code either from the local vm or directly from the Github repositories into the remote server
 
 > Provide Some additional configuration for the nginx server like enabling gzip compression, limits the download speed for any specific resource from the website and also using HTTP2 version
