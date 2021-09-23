@@ -1,9 +1,7 @@
 
-# Integrating Shell Scripting AWS to perform Basic Automation Tasks
+# Integrating Shell Scripting with AWS to perform Basic Automation Tasks
 
 ### PROJECT DESCRIPTION
-
-### TASK DESCRIPTION
 
 In this project, I have created a shell script that will perform the following operations
 
@@ -27,7 +25,7 @@ https://user-images.githubusercontent.com/64367344/131355204-da8ecd63-ca64-427d-
 
 > Installs the APACHE Webserver and make changes in the configuration file to deploy a static website (HTML+CSS +JavaScript)
 
-###DEMO
+### DEMO
 
 https://user-images.githubusercontent.com/64367344/131474815-7af6ef92-07d5-4c05-a610-13fbf565fb09.mp4
 
